@@ -1,0 +1,98 @@
+/* #HowToUse{
+    width: 60%;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    position: relative;
+    height: auto; 
+} */
+
+#HowToUse {
+  flex: 1;
+  width: 60%;
+  margin: auto;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+h1{
+    padding: 1.7rem;
+    font-size: 70px;
+}
+
+h2{
+    padding: 1.5rem;
+    font-size: 40px;
+}
+span{
+    font-size: 26px;
+    /* padding-bottom: 2rem; */
+}
+
+.description-text{
+    padding: 1.3rem;
+}
+
+.center_img_normal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 40px;
+  }
+
+  img.center_img_normal{
+    width: 750px;
+  }
+
+  .center_img_small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 40px;
+  }
+
+  img.center_img_small{
+    width: 300px;
+  }
+
+  @media  screen and (max-width:1350px) {
+    
+    #HowToUse{
+      height: 160rem;
+    }
+    
+}
+
+@media  screen and (max-width:1250px) {
+    
+  #HowToUse{
+    height: 154rem;
+  }
+}
+
+
+  @media  screen and (max-width:1150px) {
+    
+    #HowToUse{
+      height: 190rem;
+    }
+    
+}
+
+@media  screen and (max-width:414px) {
+  #HowToUse{
+    height: 320rem;
+  }
+}
+
+@media  screen and (max-width:360px) {
+  #HowToUse{
+    height: 370rem;
+  }
+}
