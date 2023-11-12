@@ -1,0 +1,53 @@
+#PrivacyPolicy{
+    width: 60%;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    position: relative;
+    height: 140rem; /* Set the container height as needed */
+    padding: 5rem;
+   
+}
+
+h1{
+    padding: 1.7rem;
+    font-size: 70px;
+}
+
+h2{
+    padding: 1.5rem;
+    font-size: 40px;
+}
+span{
+    font-size: 26px;
+    /* padding-bottom: 2rem; */
+}
+
+.description-text{
+    padding: 1.3rem;
+}
+
+.center_img_normal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 40px;
+  }
+
+  img.center_img_normal{
+    width: 750px;
+  }
+
+  .center_img_small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 40px;
+  }
+
+  img.center_img_small{
+    width: 300px;
+  }
