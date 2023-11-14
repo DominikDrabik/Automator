@@ -1,8 +1,5 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import './intro.css';
-import { Link } from 'react-scroll';
-import Axios from 'axios';
-import FileDownload from 'js-file-download';
 
 
 
@@ -23,7 +20,7 @@ const Intro = () => {
   return (
     <section id="intro">
         {/* <img src={automation2} alt="Automation Image" className='background_image'/> */}
-        <div class="centered-button">
+        <div className="centered-button">
             {/* <div className="descritpion_text"> */}
               <div className='text-group'> 
                 <h1 className='motivation_text'>Create your own automation</h1>

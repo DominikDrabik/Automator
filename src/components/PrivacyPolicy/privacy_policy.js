@@ -1,10 +1,5 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import './privacy_policy.css';
-import { Link } from 'react-scroll';
-import times_to_click from '../../assets/choose_file_times_to_click.png';
-import write from '../../assets/write.png';
-import search_n_copy from '../../assets/search_and_copy.png';
-import paste from '../../assets/paste.png';
 
 
 
