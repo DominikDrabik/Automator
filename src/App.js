@@ -3,7 +3,7 @@ import Intro from "./components/Intro/intro";
 import HowToUse from "./components/How_to_use/how_to_use";
 import PrivacyPolicy from "./components/PrivacyPolicy/privacy_policy"
 import Footer from "./components/Footer/footer"
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import React from 'react';
 import Example from "./components/Example/example";
 
