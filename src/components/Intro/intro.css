@@ -167,26 +167,26 @@ button.dowload_button {
     top: 37%;
     display: block;
     margin: auto;
-}
+    }
 
-.text-group{
-    margin: auto;
-}
+    .text-group{
+        margin: auto;
+    }
 
-.smaller-description-text{
-    padding: 20px;
-    text-align: center;
+    .smaller-description-text{
+        padding: 20px;
+        text-align: center;
 
-}
+    }
 
-button.dowload_button{
-    padding: 25px 30px;
-}
+    button.dowload_button{
+        padding: 25px 30px;
+    }
 
-.motivation_text{
-    text-align: center;
-    font-size: 60px;
-}
+    .motivation_text{
+        text-align: center;
+        font-size: 45px;
+    }
 
 
 }

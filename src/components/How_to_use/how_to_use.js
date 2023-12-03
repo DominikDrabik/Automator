@@ -50,7 +50,7 @@ const HowToUse = () => {
     You can import automations using the import button and export them by saving them (in .txt format).
 </span>
 
-<h2>!!! Remember to have your config.ini File in the same folder/directory as Automator.exe !!!</h2>
+<h2>!!! Remember to have your config.ini File in the same folder / directory as the .exe file!!!</h2>
 
 
     </section>

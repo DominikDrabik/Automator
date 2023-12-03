@@ -131,3 +131,9 @@
       width: 100%;
    }
  }
+
+ @media  screen and (max-width:1150px){
+  .mobMenu{
+    height: 4.5rem;
+  }
+ }
